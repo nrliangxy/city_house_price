@@ -11,6 +11,7 @@ class JSONObject:
         self.__dict__ = d
 
 
+
 # with open('04480984-2b07-11e8-8155-e09467d4fa03.json', 'r') as f:
 #     data = json.load(f, object_hook=JSONObject)
     # data = json.loads(f.readlines(), object_hook=JSONObject)
